@@ -1,0 +1,29 @@
+{
+	"name": "security",
+	"api_url": "http://10.26.0.41:8000/v2",
+	"i18n": {
+		"en-US": {
+			"label": "Security Manager",
+			"description": "Secure your account by restricting access to your doimain and set limits for your devices.",
+			"extended_description": "Security manager enables users to restrict calls to their domains from unknown sources. Also, it might be useful to set rate limits",
+			"features": [
+				"Access lists settings",
+				"Rate limits settings"
+			]
+		}
+	},
+	"tags": [
+		"reseller",
+		"developer"
+	],
+	"author": "2600hz",
+	"version": "1.0",
+	"license": "-",
+	"price": 0,
+	"icon": "WebHooks_app.png",
+	"screenshots": [
+		"webhooks1.png",
+		"webhooks2.png"
+	],
+	"pvt_type": "app"
+}
